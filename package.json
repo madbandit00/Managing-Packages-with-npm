@@ -12,5 +12,6 @@
 		"url": "https://idontknow/todo.git"
 	},
 	"author": "Ikmal",
-	"description": "I want to change my life"
+	"description": "I want to change my life",
+	"keywords": [ "freeCodeCamp", "test", "api" ]
 }
