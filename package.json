@@ -14,5 +14,6 @@
 	"author": "Ikmal",
 	"description": "I want to change my life",
 	"keywords": [ "freecodecamp", "test", "api" ],
-	"license": "MIT"
+	"license": "MIT",
+	"version": "1.0.0"
 }
